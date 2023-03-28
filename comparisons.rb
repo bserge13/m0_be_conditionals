@@ -101,4 +101,4 @@ puts loves_to_play || loves_dog_park
 # Determine if the dog loves to play and is a puppy
 puts loves_to_play && age < 3 
 # What did your final line of code evaluate to? Why do you think that is? Explain.
-# ANSWER:
+# ANSWER: My last line of code should run as true because the variable loves_to_play is assigned true, and I ran age is less than 3 for, is a puppy
