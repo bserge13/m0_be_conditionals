@@ -53,21 +53,21 @@ puts "Is number_students less than or equal to 21?", number_students <= 21
 # Make sure YOU can explain it that way!
 
 puts 4 < 9
-#YOU DO: Explain.
+#YOU DO: Explain. This is saying the integar 4 is less than the integar 9. 
 
 books = 3
 puts 4 < books
-# YOU DO: Explain.
+# YOU DO: Explain. This is saying the variable, books, is assigned the integar 3. And that the integar 4 is greater than the variable.   
 
 friends = 6
 siblings = 2
 puts friends > siblings
-# YOU DO: Explain.
+# YOU DO: Explain. Variable, friedns, is assigned integar 6. Variable, siblings, is assigned to 2. Variable friends is greater than variable siblings. 
 
 attendees = 9
 meals = 8
 puts attendees != meals
-# YOU DO: Explain.
+# YOU DO: Explain. Variable, attendees, is assigned to the number 9. Variable, meals, is assigned to the number 8. Variable attendees is not equal to variable, meals.
 
 
 #-------------------
