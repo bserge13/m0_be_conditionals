@@ -1,5 +1,5 @@
 # Self Evaluation
 
-1. When is it useful to use a `conditional` in your code?
-1. If you could do this assignment over, what would you do differently?
-1. What about your thinking, learning, or work today brought you the most satisfaction? Why?
+1. When is it useful to use a `conditional` in your code? i see conditioanls as useful when you have multiple or many parameters or factors to consider, and want to create a result for all the potential variables.
+1. If you could do this assignment over, what would you do differently? If I could do this assignment over again I would probably try and tweak the questions, variables, and datat assigned. I follow more by-the-book vs push the limits of the rules. So if I see, do this with this, I'm less likely to push the envelope and test the rules. If that makes sense? Create more of a challenge for myself, and create more problems to see if I can work them through. 
+1. What about your thinking, learning, or work today brought you the most satisfaction? Why? I'd say easily the most satisfying thing about the work done today was the thinking it required, the comprehension of what we've learned up to this point, and the fact that things are starting to 'click' for me brought a lot of joy. Realizing that I AM in-fact retaining this information and comprehending it is a big releif. 
